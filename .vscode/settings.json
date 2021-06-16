@@ -1,0 +1,13 @@
+{
+	"emmet.preferences": {
+	
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"emmet.triggerExpansionOnTab": true,
+	"prettier.htmlWhitespaceSensitivity": "ignore",
+	"prettier.jsxSingleQuote": true,
+	"prettier.jsxBracketSameLine": true,
+	"compile-hero.disable-compile-files-on-did-save-code": false
+}
