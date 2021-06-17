@@ -4,8 +4,8 @@ function Search() {
     return (
         <div>
             <Head>
-                <title>Search Results</title>
-                <link  href="/favicon.ico" />
+                <title>Search Results Vercel</title>
+                <link href="/favicon.ico" />
             </Head>
 
             {/* Header */}
