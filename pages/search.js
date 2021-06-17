@@ -5,7 +5,7 @@ function Search() {
         <div>
             <Head>
                 <title>Search Results</title>
-                <link rel="stylesheet" href="/favicon.ico" />
+                <link  href="/favicon.ico" />
             </Head>
 
             {/* Header */}
